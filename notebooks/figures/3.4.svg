@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 526 248"
+	 style="enable-background:new 0 0 526 248;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;}
+	.st3{font-family:'Helvetica';}
+	.st4{font-size:10px;}
+	.st5{stroke:#000000;}
+	.st6{enable-background:new    ;}
+	.st7{font-size:13px;}
+	.st8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<defs>
+	
+	
+		<font-face  ascent="770.01953" cap-height="717.28516" descent="-229.98047" font-family="Helvetica" font-size="10" font-weight="500" slope="0" underline-position="-75.683594" underline-thickness="49.316406" units-per-em="1000" x-height="522.94922">
+		<font-face-src>
+			<font-face-name  name="Helvetica"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  ascent="951.99585" cap-height="714" descent="-212.99744" font-family="Helvetica Neue" font-size="13" font-weight="500" panose-1="2 0 5 3 0 0 0 2 0 4" slope="0" underline-position="-100" underline-thickness="50" units-per-em="1000" x-height="517">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<g>
+	<title>Canvas 1</title>
+	<rect x="-16" y="-6" class="st0" width="560" height="258.1"/>
+	<g>
+		<title>Layer 1</title>
+		<g>
+			<xl:use  filter="url(#Shadow)" xl:href="#id3_Graphic"></xl:use>
+			<xl:use  filter="url(#Shadow)" xl:href="#id27_Graphic"></xl:use>
+			<xl:use  filter="url(#Shadow)" xl:href="#id40_Graphic"></xl:use>
+			<xl:use  filter="url(#Shadow)" xl:href="#id41_Graphic"></xl:use>
+			<xl:use  filter="url(#Shadow)" xl:href="#id47_Graphic"></xl:use>
+		</g>
+		<g id="id3_Graphic">
+			<path class="st0" d="M173,30l45,18l-45,18l-45-18L173,30z"/>
+			<path class="st1" d="M173,30l45,18l-45,18l-45-18L173,30z"/>
+			<rect x="160.3" y="43.1" class="st2" width="27.2" height="13.4"/>
+			<text transform="matrix(1 0 0 1 160.2818 51.64)" class="st3 st4">x == y</text>
+		</g>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M173,26.7l3.6-9.6h-7.2L173,26.7z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M173,17.1"/>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M173,241.7l3.6-9.6h-7.2L173,241.7z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M173,232.1"/>
+		<rect x="236.6" y="30.3" class="st2" width="16.8" height="17.4"/>
+		<text transform="matrix(1 0 0 1 236.5762 41.5006)" class="st6"><tspan x="0" y="0" class="st3 st7">N</tspan><tspan x="9.6" y="0" class="st3 st7">o</tspan></text>
+		<g id="id27_Graphic">
+			<rect x="2" y="95" class="st0" width="117" height="36"/>
+			<rect x="2" y="95" class="st1" width="117" height="36"/>
+			<rect x="33" y="108.4" class="st2" width="55" height="13.4"/>
+			<text transform="matrix(1 0 0 1 32.9878 117)" class="st6"><tspan x="0" y="0" class="st3 st4">print(‘igual’</tspan><tspan x="51.7" y="0" class="st3 st4">)</tspan></text>
+		</g>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M60.5,91.7l3.6-9.6h-7.2L60.5,91.7z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M60.5,82.1"/>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M169.7,210l-9.6-3.6v7.2L169.7,210z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M160.1,210"/>
+		<text transform="matrix(1 0 0 1 104.25 38.5)" class="st3 st7">Si</text>
+		<g id="id40_Graphic">
+			<path class="st0" d="M353,75l45,18l-45,18l-45-18L353,75z"/>
+			<path class="st1" d="M353,75l45,18l-45,18l-45-18L353,75z"/>
+			<rect x="343.2" y="88.1" class="st2" width="21.4" height="13.4"/>
+			<text transform="matrix(1 0 0 1 343.2018 96.64)" class="st3 st4">x &lt; y</text>
+		</g>
+		<g id="id41_Graphic">
+			<rect x="407" y="111" class="st0" width="117" height="36"/>
+			<rect x="407" y="111" class="st1" width="117" height="36"/>
+			<rect x="434.7" y="124.4" class="st2" width="55.6" height="13.4"/>
+			<text transform="matrix(1 0 0 1 434.748 133)" class="st6"><tspan x="0" y="0" class="st3 st4">print(‘mayo</tspan><tspan x="52.3" y="0" class="st3 st4">r</tspan></text>
+			<rect x="490.7" y="124.4" class="st2" width="5.6" height="13.4"/>
+			<text transform="matrix(1 0 0 1 490.7002 133)" class="st3 st4">’)</text>
+		</g>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M465.5,107.7l3.6-9.6h-7.2L465.5,107.7z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M465.5,98.1"/>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M353,71.7l3.6-9.6h-7.2L353,71.7z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M353,62.1"/>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M176.3,210l9.6,3.6v-7.2L176.3,210z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M185.9,210"/>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M355,168.4l9.6,3.6v-7.2L355,168.4z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M364.6,168.4"/>
+		<rect x="416.6" y="75.3" class="st2" width="16.8" height="17.4"/>
+		<text transform="matrix(1 0 0 1 416.5762 86.5006)" class="st6"><tspan x="0" y="0" class="st3 st7">N</tspan><tspan x="9.6" y="0" class="st3 st7">o</tspan></text>
+		<g id="id47_Graphic">
+			<rect x="182" y="113" class="st0" width="117" height="36"/>
+			<rect x="182" y="113" class="st1" width="117" height="36"/>
+			<rect x="216.3" y="126.4" class="st2" width="60.9" height="13.4"/>
+			<text transform="matrix(1 0 0 1 216.3301 135)" class="st6"><tspan x="0" y="0" class="st3 st4">print(‘menor’</tspan><tspan x="57.6" y="0" class="st3 st4">)</tspan></text>
+		</g>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M240.5,109.7l3.6-9.6h-7.2L240.5,109.7z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M240.5,100.1"/>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M350.5,169.4l-9.6-3.6v7.2L350.5,169.4z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M340.9,169.4"/>
+		<text transform="matrix(1 0 0 1 284.25 83.5)" class="st3 st7">Si</text>
+		<path class="st2" d=""/>
+		<g>
+			<path class="st5" d="M352,206.7l3.6-9.6h-7.2L352,206.7z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker)" class="st5" d="M352,197.1"/>
+	</g>
+</g>
+<line class="st8" x1="173" y1="17.1" x2="173" y2="0"/>
+<line class="st8" x1="128" y1="48" x2="60.5" y2="48"/>
+<line class="st8" x1="60.5" y1="82.1" x2="60.5" y2="48"/>
+<line class="st8" x1="308" y1="93" x2="240.5" y2="93"/>
+<line class="st8" x1="353" y1="62.1" x2="353" y2="47.8"/>
+<line class="st8" x1="218" y1="48" x2="353" y2="47.8"/>
+<line class="st8" x1="398" y1="93" x2="465.5" y2="93"/>
+<line class="st8" x1="240.5" y1="100.1" x2="240.5" y2="93"/>
+<line class="st8" x1="465.5" y1="98.1" x2="465.5" y2="93"/>
+<line class="st8" x1="240.5" y1="149" x2="240.5" y2="169.4"/>
+<line class="st8" x1="340.9" y1="169.4" x2="240.5" y2="169.4"/>
+<line class="st8" x1="465.5" y1="147" x2="465.5" y2="168.4"/>
+<line class="st8" x1="364.6" y1="168.4" x2="465.5" y2="168.4"/>
+<line class="st8" x1="352" y1="197.1" x2="352" y2="173.1"/>
+<line class="st8" x1="185.9" y1="210" x2="352" y2="210"/>
+<line class="st8" x1="60.5" y1="131.1" x2="60.5" y2="210"/>
+<line class="st8" x1="160.1" y1="210" x2="60.5" y2="210"/>
+<line class="st8" x1="173" y1="232.1" x2="173" y2="210"/>
+</svg>

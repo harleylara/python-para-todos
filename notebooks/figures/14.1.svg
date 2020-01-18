@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 320 103"
+	 style="enable-background:new 0 0 320 103;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{fill:none;stroke:#0080FF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{fill:none;}
+	.st6{stroke:#000000;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{font-size:20.1616px;}
+	.st9{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<defs>
+	
+	
+		<font-face  ascent="951.99585" cap-height="714" descent="-212.99744" font-family="Helvetica Neue" font-size="16" font-weight="500" panose-1="2 0 5 3 0 0 0 2 0 4" slope="0" underline-position="-100" underline-thickness="50" units-per-em="1000" x-height="517">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  ascent="951.99585" cap-height="714" descent="-212.99744" font-family="Helvetica Neue" font-size="20" font-weight="500" panose-1="2 0 5 3 0 0 0 2 0 4" slope="0" underline-position="-100" underline-thickness="50" units-per-em="1000" x-height="517">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<g>
+	<title>Canvas 1</title>
+	<rect x="-26" y="-25" class="st0" width="379" height="152.1"/>
+	<g>
+		<title>Layer 1</title>
+		<rect x="91" y="2" class="st0" width="126" height="99"/>
+		<rect x="91" y="2" class="st1" width="126" height="99"/>
+		
+			<radialGradient id="SVGID_1_" cx="-62.8933" cy="136.4574" r="1" gradientTransform="matrix(12.8754 0 0 -12.8754 999.7586 1790.8755)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#0080FF"/>
+		</radialGradient>
+		<circle class="st2" cx="188.5" cy="37" r="8"/>
+		<circle class="st3" cx="188.5" cy="37" r="8"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-65.962" y1="138.74" x2="-64.962" y2="138.74" gradientTransform="matrix(-4.2628 24.1756 24.1756 4.2628 -3444.718 1050.2928)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#0080FF"/>
+		</linearGradient>
+		<rect x="181.3" y="47.9" class="st4" width="14.3" height="22.4"/>
+		<rect x="181.3" y="47.9" class="st3" width="14.3" height="22.4"/>
+		<line class="st3" x1="208" y1="60.3" x2="195.6" y2="47.9"/>
+		<line class="st3" x1="175.7" y1="88.3" x2="181.3" y2="88.3"/>
+		<line class="st3" x1="181.3" y1="70.3" x2="181.3" y2="88.3"/>
+		<line class="st3" x1="168.9" y1="60.3" x2="181.3" y2="47.9"/>
+		<line class="st3" x1="201.2" y1="88.3" x2="195.6" y2="88.3"/>
+		<line class="st3" x1="195.6" y1="70.3" x2="195.6" y2="88.3"/>
+		<path class="st5" d=""/>
+		<g>
+			<path class="st6" d="M245.6,54.2l-7.9-3.3l-0.2,6L245.6,54.2z"/>
+		</g>
+		<path marker-start="url(#FilledArrow_Marker)" class="st6" d="M217.5,53.3"/>
+		<path class="st5" d=""/>
+		<g>
+			<path class="st6" d="M88.6,53.2l-8.1-2.7l0.2,6L88.6,53.2z"/>
+		</g>
+		<path marker-end="url(#FilledArrow_Marker_2)" class="st6" d="M80.6,53.5"/>
+		<text transform="matrix(1 0 0 1 1.0005 59.9157)" class="st7 st8">Entrada</text>
+		<text transform="matrix(1 0 0 1 252.0005 59.9157)" class="st7 st8">Salida</text>
+		<text transform="matrix(1 0 0 1 96.0005 20.9157)" class="st7 st8">Programa</text>
+		<line class="st9" x1="80.6" y1="53.5" x2="68.3" y2="53.5"/>
+		<line class="st9" x1="237.5" y1="54" x2="217.5" y2="54"/>
+	</g>
+</g>
+</svg>

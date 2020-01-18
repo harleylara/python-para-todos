@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 355 184"
+	 style="enable-background:new 0 0 355 184;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:18.2071px;}
+	.st4{fill:#00BFC0;}
+	.st5{font-family:'Helvetica';}
+	.st6{font-size:14px;}
+	.st7{fill:none;}
+	.st8{stroke:#000000;}
+	.st9{enable-background:new    ;}
+	.st10{font-size:16px;}
+	.st11{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st12{font-size:12px;}
+</style>
+<defs>
+	
+	
+		<font-face  ascent="928.22266" cap-height="729.0039" descent="-235.83984" font-family="Menlo" font-size="12" font-weight="500" panose-1="2 11 6 9 3 8 4 2 2 4" slope="0" underline-position="-63.476562" underline-thickness="43.945312" units-per-em="1000" x-height="546.875">
+		<font-face-src>
+			<font-face-name  name="Menlo-Regular"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  ascent="951.99585" cap-height="714" descent="-212.99744" font-family="Helvetica Neue" font-size="16" font-weight="500" panose-1="2 0 5 3 0 0 0 2 0 4" slope="0" underline-position="-100" underline-thickness="50" units-per-em="1000" x-height="517">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+	
+		<font-face  ascent="951.99585" cap-height="714" descent="-212.99744" font-family="Helvetica Neue" font-size="14" font-weight="500" panose-1="2 0 5 3 0 0 0 2 0 4" slope="0" underline-position="-100" underline-thickness="50" units-per-em="1000" x-height="517">
+		<font-face-src>
+			<font-face-name  name="HelveticaNeue"></font-face-name>
+		</font-face-src>
+	</font-face>
+</defs>
+<g>
+	<title>Canvas 1</title>
+	<rect x="-5" y="-7" class="st0" width="368" height="199.1"/>
+	<g>
+		<title>Layer 1</title>
+		<g>
+			<xl:use  filter="url(#Shadow)" xl:href="#id10_Graphic"></xl:use>
+		</g>
+		<g id="id10_Graphic">
+			<path class="st0" d="M191,164V20c0-9.9,36.3-18,81-18s81,8.1,81,18v144c0,9.9-36.3,18-81,18S191,173.9,191,164"/>
+			<path class="st1" d="M191,164V20c0-9.9,36.3-18,81-18s81,8.1,81,18v144c0,9.9-36.3,18-81,18S191,173.9,191,164 M191,20
+				c0,9.9,36.3,18,81,18s81-8.1,81-18"/>
+		</g>
+		<rect x="2" y="2" class="st0" width="135" height="180"/>
+		<rect x="2" y="2" class="st1" width="135" height="180"/>
+		<text transform="matrix(1 0 0 1 59.0444 151.274)"><tspan x="0" y="0" class="st2 st3">Tu</tspan><tspan x="-27.7" y="21.8" class="st2 st3">Programa</tspan></text>
+		<rect x="119" y="20" class="st4" width="27" height="108"/>
+		<rect x="119" y="20" class="st1" width="27" height="108"/>
+		<text transform="matrix(1 0 0 1 127.446 39)" class="st5 st6">H</text>
+		<text transform="matrix(1 0 0 1 127.964 55)" class="st5 st6">A</text>
+		<text transform="matrix(1 0 0 1 127.446 71)" class="st5 st6">N</text>
+		<text transform="matrix(1 0 0 1 127.572 87)" class="st5 st6">D</text>
+		<rect x="128.6" y="91" class="st7" width="7.8" height="18.8"/>
+		<text transform="matrix(1 0 0 1 128.6079 102.9987)" class="st5 st6">L</text>
+		<text transform="matrix(1 0 0 1 128.223 119)" class="st5 st6">E</text>
+		<path class="st7" d=""/>
+		<g>
+			<path class="st8" d="M149.3,74l9.6,3.6v-7.2L149.3,74z"/>
+		</g>
+		<g>
+			<path class="st8" d="M187.7,92l-9.6-3.6v7.2L187.7,92z"/>
+		</g>
+		<path marker-start="url(#FilledArrow_Marker_2)" marker-end="url(#FilledArrow_Marker)" class="st8" d="M178.1,92"/>
+		<rect x="56" y="20" class="st0" width="63" height="27"/>
+		<rect x="56" y="20" class="st1" width="63" height="27"/>
+		<rect x="69.4" y="25.8" class="st7" width="36.2" height="21.4"/>
+		<text transform="matrix(1 0 0 1 69.4199 39.5001)" class="st9"><tspan x="0" y="0" class="st5 st10">ope</tspan><tspan x="27.3" y="0" class="st5 st10">n</tspan></text>
+		<rect x="56" y="47" class="st0" width="63" height="27"/>
+		<rect x="56" y="47" class="st1" width="63" height="27"/>
+		<rect x="68.5" y="52.8" class="st7" width="37.9" height="21.4"/>
+		<text transform="matrix(1 0 0 1 68.54 66.5001)" class="st9"><tspan x="0" y="0" class="st5 st10">clos</tspan><tspan x="29" y="0" class="st5 st10">e</tspan></text>
+		<rect x="56" y="74" class="st0" width="63" height="27"/>
+		<rect x="56" y="74" class="st1" width="63" height="27"/>
+		<text transform="matrix(1 0 0 1 71.644 93.5)" class="st5 st10">r</text>
+		<text transform="matrix(1 0 0 1 76.684 93.5)" class="st5 st10">ead</text>
+		<rect x="56" y="101" class="st0" width="63" height="27"/>
+		<rect x="56" y="101" class="st1" width="63" height="27"/>
+		<rect x="70.2" y="106.8" class="st7" width="34.6" height="21.4"/>
+		<text transform="matrix(1 0 0 1 70.1802 120.4996)" class="st9"><tspan x="0" y="0" class="st5 st10">writ</tspan><tspan x="25.7" y="0" class="st5 st10">e</tspan></text>
+	</g>
+</g>
+<line class="st11" x1="158.9" y1="74" x2="168.2" y2="74"/>
+<line class="st11" x1="178.1" y1="92" x2="168.2" y2="92"/>
+<line class="st11" x1="168.2" y1="74" x2="168.2" y2="92"/>
+<text transform="matrix(1 0 0 1 231.8301 55.7203)"><tspan x="0" y="0" class="st2 st12">From stephen.m..</tspan><tspan x="0" y="14.4" class="st2 st12">Return-Path: &lt;p..</tspan><tspan x="0" y="28.8" class="st2 st12">Date:  Sat, 5 Jan..</tspan><tspan x="0" y="43.2" class="st2 st12">To: source@coll.. </tspan><tspan x="0" y="57.6" class="st2 st12">From: stephen...</tspan><tspan x="0" y="72" class="st2 st12">Subject: [sakai]...</tspan><tspan x="0" y="86.4" class="st2 st12">Details: http:/...</tspan><tspan x="0" y="100.8" class="st2 st12">...</tspan></text>
+</svg>
